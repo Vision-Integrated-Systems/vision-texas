@@ -11,7 +11,7 @@ import {
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "About | Vision Integrated Systems 12345",
+  title: "About | Vision Integrated Systems",
   description:
     "Learn about Vision's 30+ years of excellence in providing audio, video, cabling, and security solutions as a trusted partner for businesses across Texas.",
 };
@@ -63,7 +63,7 @@ export default function About() {
     <>
       {/* Hero — mesh variant for visual variety */}
       <PageHero
-        badge="Since 2018"
+        badge="Since 2018-2026"
         title="About"
         titleAccent="Vision Integrated Systems"
         subtitle="Building the infrastructure that powers modern business."
