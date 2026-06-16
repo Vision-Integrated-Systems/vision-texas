@@ -11,7 +11,7 @@ import {
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "About | Vision Integrated Systems",
+  title: "About | Vision Integrated Systems 12345",
   description:
     "Learn about Vision's 30+ years of excellence in providing audio, video, cabling, and security solutions as a trusted partner for businesses across Texas.",
 };
