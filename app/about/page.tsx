@@ -63,7 +63,7 @@ export default function About() {
     <>
       {/* Hero — mesh variant for visual variety */}
       <PageHero
-        badge="Since 2018-2026"
+        badge="Since 2018"
         title="About"
         titleAccent="Vision Integrated Systems"
         subtitle="Building the infrastructure that powers modern business."
